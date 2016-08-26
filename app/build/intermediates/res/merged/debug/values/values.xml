@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="nav_drawer_icons">
+    <item>@drawable/ic_action_home</item>
+    <item>@drawable/ic_action_account_balance</item>
+    <item>@drawable/ic_action_room</item>
+    <item>@drawable/ic_action_accessibility</item>
+    <item>@drawable/ic_action_account_child</item>
+    <item>@drawable/ic_communication_call</item>
+
+</array>
+    <string-array name="nav_drawer_items">
+    <item>Home</item>
+    <item>About Us</item>
+    <item>Brose By Location</item>
+    <item>Select By Builders</item>
+    <item>Register</item>
+    <item>Contact Us</item>
+</string-array>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="nevi_blue">#607d8b</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="about_us">We are a property consultancy firm,
+        we are guided by our spirit of enterprise. What does that mean to you?
+        It means as professionals,
+        we embrace even the toughest challenges and are relentlessly creative in solving them.
+        At Property 9, we push each other to be better than we thought we could be.
+        We go the extra step for our clients and partners,
+        creating memorable experience that enhance and grow relationships and we have a lot of fun along the way.</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Property9</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="property9">Property9 Realtors</string>
+    <string name="why">Why you should choose us</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<root>
+  <item name='java.security.AccessController java.security.AccessControlContext getContext()'>
+    <annotation name='java.lang.annotation.Deprecated' />
+    <annotation name='android.support.annotation.NonNull' />
+  </item>
+</root>

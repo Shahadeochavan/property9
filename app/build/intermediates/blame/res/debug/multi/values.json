@@ -1,0 +1,435 @@
+[
+    {
+        "outputFile": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 8,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 651,
+                        "endLine": 29,
+                        "endColumn": 8,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 18,
+                    "endColumn": 15,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 336,
+                        "endLine": 17,
+                        "endColumn": 15,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endColumn": 49,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 49,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 52,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 314,
+                        "endColumn": 52,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 724,
+                    "endColumn": 49,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 49,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 57,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 57,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endColumn": 46,
+                    "endOffset": 874
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 46,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 879,
+                    "endColumn": 46,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 43,
+                    "endOffset": 965
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 43,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 970,
+                    "endColumn": 57,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 55,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endLine": 34,
+                    "endColumn": 122,
+                    "endOffset": 1618
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endLine": 36,
+                        "endColumn": 122,
+                        "endOffset": 1519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1623,
+                    "endColumn": 52,
+                    "endOffset": 1671
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 95,
+                        "endColumn": 48,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 46,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 52,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endColumn": 57,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 0,
+                        "startOffset": 1607,
+                        "endColumn": 53,
+                        "endOffset": 1660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1781,
+                    "endColumn": 59,
+                    "endOffset": 1836
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 248,
+                        "endColumn": 55,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1841,
+                    "endColumn": 58,
+                    "endOffset": 1895
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 193,
+                        "endColumn": 54,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1900,
+                    "endColumn": 52,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 144,
+                        "endColumn": 48,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 56,
+                    "endOffset": 2005
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1665,
+                        "endColumn": 56,
+                        "endOffset": 1717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2010,
+                    "endColumn": 56,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1524,
+                        "endColumn": 56,
+                        "endOffset": 1576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 2353
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2358,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2513
+                },
+                "from": {
+                    "file": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
