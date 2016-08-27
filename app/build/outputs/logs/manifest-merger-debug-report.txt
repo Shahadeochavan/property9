@@ -17,6 +17,12 @@ ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\Android
 		ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-compat:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:23:9-55
 	android:targetSdkVersion
 		ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml
@@ -27,6 +33,9 @@ ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\Android
 		INJECTED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\welcome\AndroidStudioProjects\Property9\app\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup

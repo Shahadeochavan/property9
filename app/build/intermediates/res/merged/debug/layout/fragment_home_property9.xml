@@ -44,15 +44,23 @@
             android:src="@drawable/marvel_cascada_balewadi"/>
     </ViewFlipper>
     <ImageView
-        android:id="@+id/iamge_bofore"
+        android:id="@+id/swipe_left"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:src="@drawable/ic_image_navigate_before"/>
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/ic_image_navigate_before" />
+
     <ImageView
+        android:id="@+id/swipe_right"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:layout_marginLeft="350dp"
-        android:src="@drawable/ic_image_navigate_next"/>
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/ic_image_navigate_next" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/featurd_propertes"
+        android:layout_marginTop="220dp"/>
 </RelativeLayout>

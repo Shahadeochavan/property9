@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="info.androidhive.slidingmenu.test">
+    package="com.nextech.property9.test">
 
     <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="17" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="info.androidhive.slidingmenu"
+                     android:targetPackage="com.nextech.property9"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for info.androidhive.slidingmenu"/>
+                     android:label="Tests for com.nextech.property9"/>
 </manifest>

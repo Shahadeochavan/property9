@@ -2,24 +2,59 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\welcome\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_62aa97f6944ba2bc0ee1421470a55b4743d0f483\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="aa82e43d8bdbf95260964b2eec56ca5e2b3fa94c">
+        sha1="2fdc028d97d77d7a533554ea5c7e9e3c6cb92a6c">
         <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98d4cc6a5243c3c539f627bf5afdf7e033c9b735\classes.dex" />
     </item>
     <item
-        jar="C:\Users\welcome\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_151f2407fbee3fcafc69cc38cf8f03447394f5a8\classes.dex" />
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f4ebfe2f584cba0ea1867f7626d149e2fade6ca2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_d16f6cd3ae1ea029894d5800c7beaf73f2285950\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_6e17235dd3be3e88d255d74dfc4daa962bfa9539\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_efcf25d4f2c5b73c0ee44cb3f9b7aad950cb2a3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_1e57e291c3bedf07962e8c3f51c9cb23aa1fc4bf\classes.dex" />
     </item>
     <item
         jar="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="d40ab118461aa5f13d87e597e385ac912b53d9a7">
+        sha1="550e38055e3de2b427458b6cab56189227d7923e">
         <dex dex="C:\Users\welcome\AndroidStudioProjects\Property9\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3fc76b17c36d368e9e79bf8681469bd13bfe22ea\classes.dex" />
     </item>
 
