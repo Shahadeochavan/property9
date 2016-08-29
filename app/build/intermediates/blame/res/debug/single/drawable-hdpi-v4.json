@@ -8,6 +8,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\logop91.9.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactus_banner.9.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\contactus_banner.9.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\park_street_ivory_master_plan_600x400.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\park_street_ivory_master_plan_600x400.9.png"
     },

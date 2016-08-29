@@ -1,22 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
     
+    <ImageView
+        android:id="@+id/contact_us"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/contactus_banner"/>
     <TextView
-        android:id="@+id/txtLabel"
-         android:layout_width="wrap_content"
+        android:id="@+id/qucick_contact"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:textSize="16dp"
-        android:text="What's Hot View"/>
-    
-    <ImageView android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/txtLabel"
-        android:src="@drawable/ic_whats_hot"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"/>
-    
-
+        android:layout_below="@+id/contact_us"
+        android:textStyle="italic"
+        android:textSize="25dp"
+        android:padding="20dp"
+        android:text="@string/quick_contact_form"/>
+    <EditText
+        android:id="@+id/name"
+        android:layout_below="@+id/qucick_contact"
+        android:layout_width="fill_parent"
+        android:hint="Name"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/text_border"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/email"
+        android:layout_below="@+id/name"
+        android:layout_width="fill_parent"
+        android:hint="Email"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/text_border"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/phone"
+        android:layout_below="@+id/email"
+        android:layout_width="fill_parent"
+        android:hint="Phone"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/text_border"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/message"
+        android:layout_below="@+id/phone"
+        android:layout_width="fill_parent"
+        android:hint="Message"
+        android:paddingTop="10dp"
+        android:paddingBottom="100dp"
+        android:paddingLeft="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/text_border"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/submit"
+        android:layout_below="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:text="Submit now!"
+        android:backgroundTint="@color/nevi_blue"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/our_location"
+        android:textSize="25sp"
+        android:padding="20dp"
+        android:textStyle="italic"
+        android:layout_below="@+id/submit"/>
+    <TextView
+        android:layout_below="@+id/location"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/text_border"
+        android:text="@string/locationtion"/>
 </RelativeLayout>
+</ScrollView>

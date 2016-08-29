@@ -45,9 +45,22 @@
     <string name="drawer_open">Slider Menu Opened</string>
     <string name="featurd_propertes">Featurd Propertes</string>
     <string name="hello_world">Hello world!</string>
+    <string name="locationtion">504, Fortuna, Opp. McDonalds, Shivar Chowk, Pimple Saudagar, Pune – 411 027, Maharashtra, India.
+
+Email us at info@property9.in or Call us on +91-8007441199 / +91-9168115599</string>
+    <string name="newly_added">Newly added Properties</string>
+    <string name="our_location">Our Location</string>
+    <string name="park_ivory">"park Ivory-wakad (ID-3333)"</string>
     <string name="property9">Property9 Realtors</string>
+    <string name="quick_contact_form">Quick Contact Form</string>
     <string name="sample_string">"some test line 1 \n some test line 2"</string>
     <string name="water_pimple">"Water's Edges-Pimple \n Nilkha(Id-3332)</string>
+    <string name="we_are_real_people">"We are real people \n
+        As consultants we handle all the searching to find you
+        a property.We locate a property for you and we manage and
+        arrange the purchase or leasing of the property for you.
+        We also list your property for rent,
+        advertise it and deal with renters. </string>
     <string name="why">Why you should choose us</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

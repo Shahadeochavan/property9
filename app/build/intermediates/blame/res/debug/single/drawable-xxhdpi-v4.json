@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\slider_9_600x400.9.png",
-        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xxhdpi\\slider_9_600x400.9.png"
-    },
-    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\untitled_600x400.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xxhdpi\\untitled_600x400.9.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\slider_9_600x400.9.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xxhdpi\\slider_9_600x400.9.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_navigation_unfold_less.png",
@@ -22,6 +22,10 @@
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_action_room.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_room.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\contactus_banner.9.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xxhdpi\\contactus_banner.9.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\marvel_cascada_balewadi.9.png",

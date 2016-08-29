@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content">
@@ -7,7 +12,6 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="-400dp"
         android:src="@drawable/about_us"/>
     <TextView
         android:id="@+id/textlabel1"
@@ -35,11 +39,21 @@
         android:textSize="16dp"
         android:text="@string/about_us"/>
     <TextView
+        android:id="@+id/text_label_why"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/why"
         android:layout_below="@+id/txtLabel"
+        android:padding="10dp"
         android:textSize="20sp"
         android:textStyle="bold"/>
+    <TextView
+        android:background="@drawable/text_border"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_label_why"
+        android:text="@string/we_are_real_people"/>
 
 </RelativeLayout>
+    </ScrollView>

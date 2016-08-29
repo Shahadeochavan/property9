@@ -1,3 +1,4 @@
+/*
 package com.nextech.property9.adapter;
 
 import android.support.v7.widget.RecyclerView;
@@ -8,9 +9,11 @@ import android.widget.TextView;
 
 import com.nextech.property9.R;
 
+*/
 /**
  * Created by welcome on 8/27/2016.
- */
+ *//*
+
 public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Adapter.ViewHolder>{
     private String[] mDataset;
 
@@ -60,3 +63,4 @@ public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Ada
 }
 
 
+*/

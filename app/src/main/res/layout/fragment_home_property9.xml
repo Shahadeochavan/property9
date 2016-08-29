@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
@@ -59,18 +64,79 @@
         android:layout_marginTop="70dp"
         android:src="@drawable/ic_image_navigate_next" />
     <TextView
+        android:id="@+id/feture"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
+        android:background="@drawable/text_border"
+        android:padding="8dp"
+        android:backgroundTint="@color/nevi_blue"
         android:text="@string/featurd_propertes"
         android:layout_marginTop="220dp"/>
-    <android.support.v7.widget.RecyclerView
-        android:layout_width="match_parent"
+    <LinearLayout
+        android:id="@+id/water_edge"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:scrollbars="horizontal"
-        android:layout_marginTop="240dp">
-        <ImageView
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border"
+        android:layout_below="@+id/feture">
+    <ImageView
+        android:id="@+id/water_pimple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/g7_600x400" />
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/g6_600x400"/>
-    </android.support.v7.widget.RecyclerView>
+            android:text="@string/water_pimple" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/park"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border"
+        android:layout_below="@+id/water_edge"
+        android:paddingTop="20dp">
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/park_street_ivory_master_plan_600x400" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/park_ivory" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/newly_added"
+        android:background="@drawable/text_border"
+        android:padding="8dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/nevi_blue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/newly_added"
+        android:layout_below="@+id/park"/>
+    <LinearLayout
+        android:id="@+id/kasturi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border"
+        android:layout_below="@+id/newly_added"
+        android:paddingTop="20dp">
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/marvel_cascada_balewadi"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/park_ivory" />
+    </LinearLayout>
 </RelativeLayout>
+</ScrollView>
