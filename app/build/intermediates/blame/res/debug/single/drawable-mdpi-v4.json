@@ -20,6 +20,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_action_accessibility.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_maps_local_library.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_maps_local_library.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\kunal_aspiree_balewadi_bird_eye_view_by_proprty_9_realtors_600x400.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\kunal_aspiree_balewadi_bird_eye_view_by_proprty_9_realtors_600x400.9.png"
     },
@@ -84,6 +88,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\aboutus.9.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notification_sync.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_notification_sync.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_communication_call.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_communication_call.png"
     },
@@ -120,11 +128,27 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\g6_600x400.9.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_communication_email.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_communication_email.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_https.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_action_https.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_account_box.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_action_account_box.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_image_navigate_before.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_image_navigate_before.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_home.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_navigation_arrow_drop_down.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-mdpi\\ic_navigation_arrow_drop_down.png"
     }
 ]

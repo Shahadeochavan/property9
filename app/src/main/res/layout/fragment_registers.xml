@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -13,8 +18,8 @@
         android:id="@+id/user_name"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:drawableLeft="@drawable/ic_action_account_box"
@@ -22,8 +27,8 @@
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="10dp"
-        android:paddingBottom="10dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
         android:layout_marginTop="20dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
@@ -37,6 +42,7 @@
         android:textSize="20dp"
         android:layout_marginLeft="10dp"/>
     <Button
+        android:id="@+id/login_button"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="90dp"
@@ -44,6 +50,85 @@
         android:layout_marginTop="20dp"
         android:background="@drawable/text_border"
         android:text="Login Now"/>
-
-
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textSize="30dp"
+        android:padding="20dp"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:text="Buyer"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:background="@drawable/text_border"
+        android:drawableLeft="@drawable/ic_maps_local_library"
+        android:drawableRight="@drawable/ic_navigation_arrow_drop_down"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:hint="Username"
+        android:drawableLeft="@drawable/ic_action_account_box"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:hint="Email"
+        android:drawableLeft="@drawable/ic_communication_email"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:hint="Password"
+        android:drawableLeft="@drawable/ic_action_https"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:hint="Repeat Password"
+        android:drawableLeft="@drawable/ic_notification_sync"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/text_border"
+        android:text="Register Now"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="Before you Login/Register!"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
 </LinearLayout>
+</ScrollView>

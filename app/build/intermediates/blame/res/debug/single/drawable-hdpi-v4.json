@@ -44,6 +44,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_action_home.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_notification_sync.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_notification_sync.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_navigation_unfold_less.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_unfold_less.png"
     },
@@ -52,12 +56,20 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_whats_hot.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_navigation_arrow_drop_down.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_arrow_drop_down.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_us.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\about_us.9.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aboutus.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\aboutus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_maps_local_library.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_maps_local_library.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akshar_elementa_wakad_actual_image_building_elevation_600x400.9.png",
@@ -84,6 +96,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_communication_email.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_communication_email.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\g7_600x400.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\g7_600x400.9.png"
     },
@@ -104,6 +120,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\kunal_aspiree_balewadi_bird_eye_view_by_proprty_9_realtors_600x400.9.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_https.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_action_https.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_image_navigate_before.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_image_navigate_before.png"
     },
@@ -118,6 +138,10 @@
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_home.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_account_box.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-hdpi\\ic_action_account_box.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_9_600x400.9.png",

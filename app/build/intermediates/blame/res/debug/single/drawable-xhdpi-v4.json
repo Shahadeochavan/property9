@@ -60,6 +60,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_maps_local_library.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_maps_local_library.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_navigation_unfold_less.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_unfold_less.png"
     },
@@ -80,6 +84,10 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_navigate_next.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_communication_email.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_communication_email.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\kunal_aspiree_balewadi_bird_eye_view_by_proprty_9_realtors_600x400.9.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\kunal_aspiree_balewadi_bird_eye_view_by_proprty_9_realtors_600x400.9.png"
     },
@@ -90,6 +98,14 @@
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_accessibility.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_accessibility.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_navigation_arrow_drop_down.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_arrow_drop_down.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_notification_sync.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification_sync.png"
     },
     {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\akshar_elementa_wakad_actual_image_bird_eye_view1_600x400_1.9.png",
@@ -124,7 +140,15 @@
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\about_us.9.png"
     },
     {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_https.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_https.png"
+    },
+    {
         "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_account_box.png",
+        "source": "C:\\Users\\welcome\\AndroidStudioProjects\\Property9\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_account_box.png"
     }
 ]

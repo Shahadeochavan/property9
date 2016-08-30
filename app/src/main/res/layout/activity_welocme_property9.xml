@@ -16,7 +16,8 @@
         android:layout_width="240dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:choiceMode="singleChoice"
+        android:gravity="center"
+        android:choiceMode="multipleChoice"
         android:divider="@color/nevi_blue"
         android:dividerHeight="1dp"
         android:background="@color/nevi_blue"/>

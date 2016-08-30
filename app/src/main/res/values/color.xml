@@ -7,4 +7,14 @@
     <color name="counter_text_bg">#626262</color>
     <color name="counter_text_color">#c5c4c4</color>
     <color name="nevi_blue">#607d8b</color>
+    <color name="PrimaryColor">#2196F3</color>
+    <color name="colourBlue">#03A9f4</color>
+    <color name="PrimaryDarkColor">#1976D2</color>
+    <color name="indicator">#ecd95a</color>
+    <color name="colorPrimary1">#125688</color>
+    <color name="colorPrimaryDark1">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="bg_gradient_start">#00BDB0</color>
+    <color name="bg_gradient_end">#820d2a</color>
+    <color name="bg_button_login">#336167</color>
 </resources>
