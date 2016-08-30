@@ -6,9 +6,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class SelectByBuilders extends Fragment {
+public class SelectByBuildersFragment extends Fragment {
 	
-	public SelectByBuilders(){}
+	public SelectByBuildersFragment(){}
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

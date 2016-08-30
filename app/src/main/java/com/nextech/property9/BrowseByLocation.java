@@ -6,15 +6,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class BroseByLocation extends Fragment {
+public class BrowseByLocation extends Fragment {
 	
-	public BroseByLocation(){}
+	public BrowseByLocation(){}
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
  
-        View rootView = inflater.inflate(com.nextech.property9.R.layout.fragment_brose_by_location, container, false);
+        View rootView = inflater.inflate(com.nextech.property9.R.layout.fragment_browse_by_location, container, false);
          
         return rootView;
     }

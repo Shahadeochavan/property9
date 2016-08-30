@@ -1,6 +1,6 @@
-/*
 package com.nextech.property9.adapter;
 
+import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,13 +9,10 @@ import android.widget.TextView;
 
 import com.nextech.property9.R;
 
-*/
-/**
- * Created by welcome on 8/27/2016.
- *//*
-
 public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Adapter.ViewHolder>{
     private String[] mDataset;
+    private Context context;
+
 
     // Provide a reference to the views for each data item
     // Complex data items may need more than one view per item, and
@@ -39,10 +36,13 @@ public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Ada
     public HomeProperty9Adapter.ViewHolder onCreateViewHolder(ViewGroup parent,
                                                    int viewType) {
         // create a new view
+        //TODO Create a new layout file which you want to display like you create a layout for custom list
+        //TODO Do not use fragment_home_property9 layout here
         View v = LayoutInflater.from(parent.getContext())
                 .inflate(R.layout.fragment_home_property9, parent, false);
         // set the view's size, margins, paddings and layout parameters
-        ViewHolder vh = new ViewHolder(v);
+        //
+        ViewHolder vh = new ViewHolder(new TextView(context));
             return vh;
     }
 
@@ -63,4 +63,3 @@ public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Ada
 }
 
 
-*/
