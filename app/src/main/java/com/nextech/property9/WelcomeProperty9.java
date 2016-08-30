@@ -166,10 +166,10 @@ public class WelcomeProperty9 extends Activity {
 			fragment = new AboutUsFragment();
 			break;
 		case 2:
-			fragment = new BroseByLocation();
+			fragment = new BrowseByLocation();
 			break;
 		case 3:
-			fragment = new SelectByBuilders();
+			fragment = new SelectByBuildersFragment();
 			break;
 		case 4:
 			fragment = new RegisterFragment();
