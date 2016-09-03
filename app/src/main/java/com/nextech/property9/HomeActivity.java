@@ -22,7 +22,7 @@ import com.nextech.property9.model.NavDrawerItem;
 
 import java.util.ArrayList;
 
-public class WelcomeProperty9 extends Activity {
+public class HomeActivity extends Activity {
 	private DrawerLayout mDrawerLayout;
 	private ListView mDrawerList;
 	private ActionBarDrawerToggle mDrawerToggle;

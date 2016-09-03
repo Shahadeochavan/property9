@@ -1,6 +1,6 @@
-/*
 package com.nextech.property9.adapter;
 
+import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,53 +9,49 @@ import android.widget.TextView;
 
 import com.nextech.property9.R;
 
-*/
-/**
- * Created by welcome on 8/27/2016.
- *//*
+public class HomeProperty9Adapter extends RecyclerView.Adapter<HomeProperty9Adapter.ViewHolder> {
 
-public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Adapter.ViewHolder>{
+    private Context context;
     private String[] mDataset;
 
-    // Provide a reference to the views for each data item
-    // Complex data items may need more than one view per item, and
-    // you provide access to all the views for a data item in a view holder
+    public HomeProperty9Adapter(Context context){
+        this.context = context;
+    }
+
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        // each data item is just a string in this case
         public TextView mTextView;
+
         public ViewHolder(TextView v) {
             super(v);
             mTextView = v;
         }
     }
 
-    // Provide a suitable constructor (depends on the kind of dataset)
-    public HomeProperty9Adapter(String[] myDataset) {
+    public HomeProperty9Adapter(Context context, String[] myDataset) {
+
+        this.context = context;
         mDataset = myDataset;
+
     }
 
-    // Create new views (invoked by the layout manager)
     @Override
     public HomeProperty9Adapter.ViewHolder onCreateViewHolder(ViewGroup parent,
-                                                   int viewType) {
-        // create a new view
-        View v = LayoutInflater.from(parent.getContext())
+                                                              int viewType) {
+        View view = LayoutInflater.from(parent.getContext())
                 .inflate(R.layout.fragment_home_property9, parent, false);
-        // set the view's size, margins, paddings and layout parameters
-        ViewHolder vh = new ViewHolder(v);
-            return vh;
+
+        TextView textView = new TextView(context);
+
+        ViewHolder vh = new ViewHolder(textView);
+        return vh;
     }
 
-    // Replace the contents of a view (invoked by the layout manager)
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        // - get element from your dataset at this position
-        // - replace the contents of the view with that element
         holder.mTextView.setText(mDataset[position]);
 
     }
 
-    // Return the size of your dataset (invoked by the layout manager)
     @Override
     public int getItemCount() {
         return mDataset.length;
@@ -63,4 +59,4 @@ public class HomeProperty9Adapter  extends RecyclerView.Adapter<HomeProperty9Ada
 }
 
 
-*/
+
